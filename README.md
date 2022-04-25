@@ -1,6 +1,6 @@
-# **Takım İsmi**
+# **welkinGam**
 
-Takım X
+Takım 63
 
 # Ürün İle İlgili Bilgiler
 
