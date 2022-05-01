@@ -6,40 +6,41 @@ Takım 63
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Melis Alevli: Product Owner
+- Sergen Sayan: Scrum Master
+- Ayşenur Arslan, Emre Esen, Selahattin Yıldırım: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+RELUA
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+Azı dişleri sökülmüş, kafayı sıyırmış bir vampirin en sevdiği şey nedir? Türdeşlerinin dişlerini sökerken çıkarttıkları acı dolu çığlıklara ritim tutmak tabi ki! “ Bir-ki Naa-na-Naahhhgh-na-nam ”
+RELUA (Rumence: Canlandırma, yeniden doğma) tamamen vampir klanlarının kontrolü altında. İnsan stokunun bir avuç kaldığı bu evrende vampirler didik didik onları arıyor. Gerçi, bizim deli vampirimizin pek umurunda değil bu konu. O, geceleri en sadık dostu, kerpeteniyle, vampir avına çıkıyor. 
+Rogue-like Action / RPG türündeki RELUA size önceden hiç görmediğiniz bir vampir deneyimi yaşatacak.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- 2D Top-down
+- Zengin Hikaye
+- Rogue-like
+- Action RPG
+- Tek kişilik
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- +18 yaş oyuncu kitlesi
+- Rogue-like severler
+- Fantezi hikaye severler
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/) (eklenecek)
 
 ---
 
-# Sprint 1
+# Sprint 1 (eklenecek)
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
