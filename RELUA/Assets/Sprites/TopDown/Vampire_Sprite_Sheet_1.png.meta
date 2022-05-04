@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: a64e654a22fd3554da5417c35366fd29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 875453281810604836
+    second: Vampire_Sprite_Sheet_1_0
+  - first:
+      213: -7968747118028346153
+    second: Vampire_Sprite_Sheet_1_1
+  - first:
+      213: -2427529897529754101
+    second: Vampire_Sprite_Sheet_1_2
+  - first:
+      213: 2943696250846385036
+    second: Vampire_Sprite_Sheet_1_3
+  - first:
+      213: -949598477890193537
+    second: l1
+  - first:
+      213: 7395289580436074529
+    second: f1
+  - first:
+      213: -6526732660507943671
+    second: r1
+  - first:
+      213: 2593991237000472690
+    second: b1
+  - first:
+      213: -6929289212647514956
+    second: Vampire_Sprite_Sheet_1_8
+  - first:
+      213: -2225400390000610598
+    second: Vampire_Sprite_Sheet_1_9
+  - first:
+      213: -6130469824854200329
+    second: Vampire_Sprite_Sheet_1_10
+  - first:
+      213: 6055193358681780320
+    second: Vampire_Sprite_Sheet_1_11
+  - first:
+      213: 3342537765465225512
+    second: Vampire_Sprite_Sheet_1_12
+  - first:
+      213: -4365840261323549904
+    second: Vampire_Sprite_Sheet_1_13
+  - first:
+      213: -2020859645383370930
+    second: Vampire_Sprite_Sheet_1_14
+  - first:
+      213: -5967180166814323481
+    second: Vampire_Sprite_Sheet_1_15
+  - first:
+      213: 5060551622064691114
+    second: l2
+  - first:
+      213: 5841857903720041351
+    second: f2
+  - first:
+      213: 3084347473221378722
+    second: r2
+  - first:
+      213: -1753078055914930784
+    second: b2
+  - first:
+      213: -690778205697249933
+    second: Vampire_Sprite_Sheet_1_20
+  - first:
+      213: -782740862757265579
+    second: Vampire_Sprite_Sheet_1_21
+  - first:
+      213: 6162194269681665893
+    second: Vampire_Sprite_Sheet_1_22
+  - first:
+      213: 3325902708891802692
+    second: Vampire_Sprite_Sheet_1_23
+  - first:
+      213: 5733481548444501407
+    second: Vampire_Sprite_Sheet_1_24
+  - first:
+      213: 8662249301756761508
+    second: Vampire_Sprite_Sheet_1_25
+  - first:
+      213: -6884834566799467654
+    second: Vampire_Sprite_Sheet_1_26
+  - first:
+      213: -5663422957849975504
+    second: Vampire_Sprite_Sheet_1_27
+  - first:
+      213: 972560390081326432
+    second: Vampire_Sprite_Sheet_1_28
+  - first:
+      213: 5796962367677134511
+    second: Vampire_Sprite_Sheet_1_29
+  - first:
+      213: 3264188630805416903
+    second: l3
+  - first:
+      213: 8705686170392277271
+    second: f3
+  - first:
+      213: 2860779576016803020
+    second: r3
+  - first:
+      213: -2616125451955917242
+    second: b3
+  - first:
+      213: -6128633435626699707
+    second: Vampire_Sprite_Sheet_1_34
+  - first:
+      213: -9208899301316518072
+    second: Vampire_Sprite_Sheet_1_35
+  - first:
+      213: 3326965185975816159
+    second: Vampire_Sprite_Sheet_1_36
+  - first:
+      213: -5470760048731039135
+    second: Vampire_Sprite_Sheet_1_37
+  - first:
+      213: -4222793766062010381
+    second: Vampire_Sprite_Sheet_1_38
+  - first:
+      213: -2689081618803759442
+    second: Vampire_Sprite_Sheet_1_39
+  - first:
+      213: -8646932512701743356
+    second: l4
+  - first:
+      213: -6668574624432544746
+    second: f4
+  - first:
+      213: -4814591107180908740
+    second: r4
+  - first:
+      213: -7770267873694489145
+    second: b4
+  - first:
+      213: 1600862853116085451
+    second: Vampire_Sprite_Sheet_1_44
+  - first:
+      213: 8162143776508887765
+    second: Vampire_Sprite_Sheet_1_45
+  - first:
+      213: 108932864312911016
+    second: Vampire_Sprite_Sheet_1_46
+  - first:
+      213: -1273562951187590497
+    second: Vampire_Sprite_Sheet_1_47
+  - first:
+      213: -7598153318794073683
+    second: Vampire_Sprite_Sheet_1_48
+  - first:
+      213: -3777590271494151635
+    second: Vampire_Sprite_Sheet_1_49
+  - first:
+      213: -6076787121930259012
+    second: Vampire_Sprite_Sheet_1_50
+  - first:
+      213: 6241595492269091151
+    second: Vampire_Sprite_Sheet_1_51
+  - first:
+      213: -8381905512644716340
+    second: Vampire_Sprite_Sheet_1_52
+  - first:
+      213: 1468036587502968961
+    second: Vampire_Sprite_Sheet_1_53
+  - first:
+      213: -446257959808797969
+    second: Vampire_Sprite_Sheet_1_54
+  - first:
+      213: 7553645724775379199
+    second: Vampire_Sprite_Sheet_1_55
+  - first:
+      213: -8220005685285094604
+    second: Vampire_Sprite_Sheet_1_56
+  - first:
+      213: 3926944548273811604
+    second: Vampire_Sprite_Sheet_1_57
+  - first:
+      213: 7718197608052483025
+    second: Vampire_Sprite_Sheet_1_58
+  - first:
+      213: -4084731098709058129
+    second: Vampire_Sprite_Sheet_1_59
+  - first:
+      213: -2805243976289335187
+    second: Vampire_Sprite_Sheet_1_60
+  - first:
+      213: -9157201015426533551
+    second: Vampire_Sprite_Sheet_1_61
+  - first:
+      213: 2710532172505233472
+    second: Vampire_Sprite_Sheet_1_62
+  - first:
+      213: 4691107968122367557
+    second: Vampire_Sprite_Sheet_1_63
+  - first:
+      213: 1814644041916960427
+    second: Vampire_Sprite_Sheet_1_64
+  - first:
+      213: 5510325835572244562
+    second: Vampire_Sprite_Sheet_1_65
+  - first:
+      213: -1275277034196337897
+    second: Vampire_Sprite_Sheet_1_66
+  - first:
+      213: -2516231715627176371
+    second: Vampire_Sprite_Sheet_1_67
+  - first:
+      213: -2676530045816528117
+    second: Vampire_Sprite_Sheet_1_68
+  - first:
+      213: 2232527220052805803
+    second: Vampire_Sprite_Sheet_1_69
+  - first:
+      213: -8579798006187367355
+    second: Vampire_Sprite_Sheet_1_70
+  - first:
+      213: 3270025524391780276
+    second: Vampire_Sprite_Sheet_1_71
+  - first:
+      213: -7589736711788106035
+    second: Vampire_Sprite_Sheet_1_72
+  - first:
+      213: 6347643213946663160
+    second: Vampire_Sprite_Sheet_1_73
+  - first:
+      213: -646025086602189299
+    second: Vampire_Sprite_Sheet_1_74
+  - first:
+      213: 8555085943593051314
+    second: Vampire_Sprite_Sheet_1_75
+  - first:
+      213: -6013087313236066753
+    second: Vampire_Sprite_Sheet_1_76
+  - first:
+      213: 2315976501694406382
+    second: Vampire_Sprite_Sheet_1_77
+  - first:
+      213: -2956413604598793723
+    second: Vampire_Sprite_Sheet_1_78
+  - first:
+      213: -2295565836427316879
+    second: Vampire_Sprite_Sheet_1_79
+  - first:
+      213: 1046499925457363164
+    second: Vampire_Sprite_Sheet_1_80
+  - first:
+      213: -7815123948065629612
+    second: Vampire_Sprite_Sheet_1_81
+  - first:
+      213: -2942787332207015056
+    second: Vampire_Sprite_Sheet_1_82
+  - first:
+      213: -562446009275941590
+    second: Vampire_Sprite_Sheet_1_83
+  - first:
+      213: 8049374702401145214
+    second: Vampire_Sprite_Sheet_1_84
+  - first:
+      213: 588439051664513480
+    second: Vampire_Sprite_Sheet_1_85
+  - first:
+      213: -3179275591240901016
+    second: Vampire_Sprite_Sheet_1_86
+  - first:
+      213: -6111969636767555249
+    second: Vampire_Sprite_Sheet_1_87
+  - first:
+      213: 2899967814702697466
+    second: Vampire_Sprite_Sheet_1_88
+  - first:
+      213: 2068251229376864046
+    second: Vampire_Sprite_Sheet_1_89
+  - first:
+      213: -7346586935718651982
+    second: Vampire_Sprite_Sheet_1_90
+  - first:
+      213: 6583094878775155053
+    second: Vampire_Sprite_Sheet_1_91
+  - first:
+      213: -8090345720816227191
+    second: Vampire_Sprite_Sheet_1_92
+  - first:
+      213: -6359910985605807891
+    second: Vampire_Sprite_Sheet_1_93
+  - first:
+      213: 7477913235972233499
+    second: Vampire_Sprite_Sheet_1_94
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: l1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 185
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f777a1e273952d2f0800000000000000
+      internalID: -949598477890193537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 185
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203a0501b851a660800000000000000
+      internalID: 7395289580436074529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 185
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ddb72b9336c65a0800000000000000
+      internalID: -6526732660507943671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 185
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278a3e75945bff320800000000000000
+      internalID: 2593991237000472690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 161
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa751b863e0ba3640800000000000000
+      internalID: 5060551622064691114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b8a8bdfc2721150800000000000000
+      internalID: 5841857903720041351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 161
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2eb317fadcdca20800000000000000
+      internalID: 3084347473221378722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad78addbc0dba7e0800000000000000
+      internalID: -1753078055914930784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 137
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb860be34abc4d20800000000000000
+      internalID: 3264188630805416903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 137
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113340827fc0d870800000000000000
+      internalID: 8705686170392277271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 137
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc49c290ed783b720800000000000000
+      internalID: 2860779576016803020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 137
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e2f4423c7a1bbd0800000000000000
+      internalID: -2616125451955917242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 113
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ff2af61bceff780800000000000000
+      internalID: -8646932512701743356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a380f5b67473a0800000000000000
+      internalID: -6668574624432544746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: r4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 113
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f2ab595e22f2db0800000000000000
+      internalID: -4814591107180908740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 115
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56fca99867a2490800000000000000
+      internalID: -7770267873694489145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
