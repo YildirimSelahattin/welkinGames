@@ -1,4 +1,4 @@
-# **welkinGam**
+# **welkinGames**
 
 Takım 63
 
@@ -12,7 +12,7 @@ Takım 63
 
 ## Ürün İsmi
 
-RELUA
+RELUA - Kanlı Dişler
 
 ## Ürün Açıklaması
 
@@ -36,13 +36,13 @@ Rogue-like Action / RPG türündeki RELUA size önceden hiç görmediğiniz bir 
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/) (eklenecek)
+[Miro Backlog Board](https://miro.com/app/board/uXjVO4dBOmA=/) 
 
 ---
 
-# Sprint 1 (eklenecek)
+# Sprint 1 
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
