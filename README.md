@@ -54,8 +54,8 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 
 - **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](eklenecektir.)
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]
+- **Sprint board update**: Sprint board screenshotı: 
+![Backlog1]
 
 
 - **Ürün Durumu**: Ekran görüntüleri:(eklenecek)
