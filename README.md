@@ -54,27 +54,20 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 
 - **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](eklenecektir.)
 
-- **Sprint board update**: Sprint board screenshotları:  (eklenecek)
+- **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1]
-![Backlog 2] 
-![Backlog 3]
+
 
 - **Ürün Durumu**: Ekran görüntüleri:(eklenecek)
   ![Screenshot 1]
   ![Screenshot 2]
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Öncelikle oyunumuzun Oyun Tasarım Dokümanı(GDD) oluşturulmasına karar verilmiş, diğer adımların GDD üzerinden ilerletilmesi kararlaştırılmıştır. Oyunumuzun 04/05 tarihinde tamamlanan GDD'si üzerinden tüm çevre ve karakter assetlerinin grubumuz tarafından yapılması kararı alınmıştır. 2D Topdown yapılmasına karar verilmiştir. Görev dağılımları yapılmıştır.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - 08/05/2022'de Retrospective toplantısı yapılacaktır.
 
--**Diğer Notlar**:
-- N/A
-
----
 
 # Sprint 2
 
