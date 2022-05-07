@@ -52,7 +52,7 @@ Rogue-like Action / RPG türündeki RELUA size önceden hiç görmediğiniz bir 
 
 Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](eklenecektir.)
+- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/YildirimSelahattin/welkinGames/blob/ca178d5fdab2142b8f268ab3ff2214ce11b13eb2/Sprint1Documents/Bootcamp%2363%20Daily%20Scrum.docx)
 
 - **Sprint board update**: Sprint board screenshotı: 
 ![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/fc19810bf221edda75e17e2f6c78b3a849189df2/Sprint1Documents/Backlog1.PNG)
@@ -63,7 +63,7 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
   ![Screenshot 2]
 
 - **Sprint Review**: 
-Alınan kararlar: Öncelikle oyunumuzun Oyun Tasarım Dokümanı(GDD) oluşturulmasına karar verilmiş, diğer adımların GDD üzerinden ilerletilmesi kararlaştırılmıştır. Oyunumuzun 04/05 tarihinde tamamlanan GDD'si üzerinden tüm çevre ve karakter assetlerinin grubumuz tarafından yapılması kararı alınmıştır. 2D Topdown yapılmasına karar verilmiştir. Görev dağılımları yapılmıştır.
+Alınan kararlar: Öncelikle oyunumuzun Oyun Tasarım Dokümanı(GDD) oluşturulmasına karar verilmiş, diğer adımların GDD üzerinden ilerletilmesi kararlaştırılmıştır. Oyunumuzun 05/05 tarihinde tamamlanan [GDD](https://github.com/YildirimSelahattin/welkinGames/blob/efd8d1854b3eb496a478948ebb32976609381291/Bootcamp%2363%20GDD.docx)'si üzerinden tüm çevre ve karakter assetlerinin grubumuz tarafından yapılması kararı alınmıştır. 2D Topdown yapılmasına karar verilmiştir. Görev dağılımları yapılmıştır.
 
 - **Sprint Retrospective:**
   - 08/05/2022'de Retrospective toplantısı yapılacaktır.
