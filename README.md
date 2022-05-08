@@ -58,16 +58,17 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 ![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/fc19810bf221edda75e17e2f6c78b3a849189df2/Sprint1Documents/Backlog1.PNG)
 
 
-- **Ürün Durumu**: Ekran görüntüleri:(eklenecek)
-  ![Screenshot 1]
-  ![Screenshot 2]
+- **Ürün Durumu**: Ekran görüntüleri diğer sprintlerde eklenecek.
 
 - **Sprint Review**: 
 Alınan kararlar: Öncelikle oyunumuzun Oyun Tasarım Dokümanı(GDD) oluşturulmasına karar verilmiş, diğer adımların GDD üzerinden ilerletilmesi kararlaştırılmıştır. Oyunumuzun 05/05 tarihinde tamamlanan [GDD](https://github.com/YildirimSelahattin/welkinGames/blob/efd8d1854b3eb496a478948ebb32976609381291/Bootcamp%2363%20GDD.docx)'si üzerinden tüm çevre ve karakter assetlerinin grubumuz tarafından yapılması kararı alınmıştır. 2D Topdown yapılmasına karar verilmiştir. Görev dağılımları yapılmıştır.
 
 - **Sprint Retrospective:**
-  - 08/05/2022'de Retrospective toplantısı yapılacaktır.
-
+  Alınan Kararlar: 
+  - Sprint 1'de üstünde durulmayan oyun mekaniklerine Sprint 2'de daha çok önem verilmesi gerektiği, 
+  - Sprint 2 boyunca hazır assetlerle oyunun tamamlanıp grup tarafından hazırlanacak assetlerin daha sonra eklenmesinin daha zaman kazandırıcı olacağı,
+  - Herkesin kod yazabilmesi için oyundaki düşmanların kodlamasının grup içinde dağıtılması
+  kararları alınmıştır.
 
 # Sprint 2
 
