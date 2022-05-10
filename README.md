@@ -58,7 +58,10 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 ![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/fc19810bf221edda75e17e2f6c78b3a849189df2/Sprint1Documents/Backlog1.PNG)
 
 
-- **Ürün Durumu**: Ekran görüntüleri diğer sprintlerde eklenecek.
+- **Ürün Durumu**: 
+![Ürün Durumu1](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/mutfak.PNG)
+![Ürün Durumu2](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/yatakl%C4%B1oda.PNG)
+![Ürün Durumu3](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/zeminler.PNG)
 
 - **Sprint Review**: 
 Alınan kararlar: Öncelikle oyunumuzun Oyun Tasarım Dokümanı(GDD) oluşturulmasına karar verilmiş, diğer adımların GDD üzerinden ilerletilmesi kararlaştırılmıştır. Oyunumuzun 05/05 tarihinde tamamlanan [GDD](https://github.com/YildirimSelahattin/welkinGames/blob/efd8d1854b3eb496a478948ebb32976609381291/Bootcamp%2363%20GDD.docx)'si üzerinden tüm çevre ve karakter assetlerinin grubumuz tarafından yapılması kararı alınmıştır. 2D Topdown yapılmasına karar verilmiştir. Görev dağılımları yapılmıştır.
