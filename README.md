@@ -59,6 +59,7 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 
 
 - **Ürün Durumu**: 
+
 ![Ürün Durumu1](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/mutfak.PNG)
 ![Ürün Durumu2](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/yatakl%C4%B1oda.PNG)
 ![Ürün Durumu3](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/zeminler.PNG)
