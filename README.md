@@ -52,29 +52,27 @@ Rogue-like Action / RPG türündeki RELUA size önceden hiç görmediğiniz bir 
 
 Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](eklenecektir.)
+- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/YildirimSelahattin/welkinGames/blob/ca178d5fdab2142b8f268ab3ff2214ce11b13eb2/Sprint1Documents/Bootcamp%2363%20Daily%20Scrum.docx)
 
-- **Sprint board update**: Sprint board screenshotları:  (eklenecek)
-![Backlog 1]
-![Backlog 2] 
-![Backlog 3]
+- **Sprint board update**: Sprint board screenshotı: 
+![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/fc19810bf221edda75e17e2f6c78b3a849189df2/Sprint1Documents/Backlog1.PNG)
 
-- **Ürün Durumu**: Ekran görüntüleri:(eklenecek)
-  ![Screenshot 1]
-  ![Screenshot 2]
+
+- **Ürün Durumu**: 
+
+![Ürün Durumu1](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/mutfak.PNG)
+![Ürün Durumu2](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/yatakl%C4%B1oda.PNG)
+![Ürün Durumu3](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/zeminler.PNG)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Öncelikle oyunumuzun Oyun Tasarım Dokümanı(GDD) oluşturulmasına karar verilmiş, diğer adımların GDD üzerinden ilerletilmesi kararlaştırılmıştır. Oyunumuzun 05/05 tarihinde tamamlanan [GDD](https://github.com/YildirimSelahattin/welkinGames/blob/efd8d1854b3eb496a478948ebb32976609381291/Bootcamp%2363%20GDD.docx)'si üzerinden tüm çevre ve karakter assetlerinin grubumuz tarafından yapılması kararı alınmıştır. 2D Topdown yapılmasına karar verilmiştir. Görev dağılımları yapılmıştır.
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
-
--**Diğer Notlar**:
-- N/A
-
----
+  Alınan Kararlar: 
+  - Sprint 1'de üstünde durulmayan oyun mekaniklerine Sprint 2'de daha çok önem verilmesi gerektiği, 
+  - Sprint 2 boyunca hazır assetlerle oyunun tamamlanıp grup tarafından hazırlanacak assetlerin daha sonra eklenmesinin daha zaman kazandırıcı olacağı,
+  - Herkesin kod yazabilmesi için oyundaki düşmanların kodlamasının grup içinde dağıtılması
+  kararları alınmıştır.
 
 # Sprint 2
 
