@@ -7,10 +7,8 @@ public class DialogueTrigger : MonoBehaviour
     public DialogueSystem dialogueScript;
     private bool playerDetected;
 
-    //Detect trigger with player
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        //If we triggerd the player enable playerdeteced and show indicator
         if (collision.tag == "Player")
         {
             playerDetected = true;
@@ -20,7 +18,6 @@ public class DialogueTrigger : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        //If we lost trigger  with the player disable playerdeteced and hide indicator
         if (collision.tag == "Player")
         {
             playerDetected = false;
@@ -28,7 +25,6 @@ public class DialogueTrigger : MonoBehaviour
             dialogueScript.EndDialogue();
         }
     }
-    //While detected if we interact start the dialogue
     private void Update()
     {
         if (playerDetected && Input.GetKeyDown(KeyCode.E))
