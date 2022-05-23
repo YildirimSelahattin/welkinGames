@@ -86,17 +86,22 @@ Alınan kararlar: Öncelikle oyunumuzun Oyun Tasarım Dokümanı(GDD) oluşturul
 
 Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/YildirimSelahattin/welkinGames/blob/ca178d5fdab2142b8f268ab3ff2214ce11b13eb2/Sprint1Documents/Bootcamp%2363%20Daily%20Scrum.docx)
+- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/Sprint2DailyScrum/Sprint2DailyScrum.docx)
 
 - **Sprint board update**: Sprint board screenshotı: 
-![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/fc19810bf221edda75e17e2f6c78b3a849189df2/Sprint1Documents/Backlog1.PNG)
+![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/backlog2.PNG)
 
 
 - **Ürün Durumu**: 
 
-![Ürün Durumu1](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/mutfak.PNG)
-![Ürün Durumu2](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/yatakl%C4%B1oda.PNG)
-![Ürün Durumu3](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/zeminler.PNG)
+![Ürün Durumu1](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/seviye0.PNG)
+![Ürün Durumu2](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/seviye1.PNG)
+![Ürün Durumu3](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/t.png)
+![Ürün Durumu4](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/boss.png)
+![Ürün Durumu5](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/eldealev.png)
+![Ürün Durumu7](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/olenboss.png)
+![Ürün Durumu8](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/Soare_Sorcerer.gif)
+![Ürün Durumu9](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/soare%20warrior.png)
 
 - **Sprint Review**: 
 Alınan kararlar: GDD'de yazan oyun projesinin tam anlamıyla gerçekleştirilmesi için daha fazla vakit gerektiğine karar verilmiştir. Bu doğrultuda 3.Sprint boyunca zamanı daha verimli kullanmaya yönelik CC0 hazır asset kullanımı, GDD'deki mekaniklerin basitleştirilmesi gibi B planları değerlendirmeye alınmıştır. 3.Sprint'in sonuna kadar kritik önem taşıyan görevler belirlenmiş, bunlara odaklanılmıştır.
