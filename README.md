@@ -76,8 +76,37 @@ Alınan kararlar: Öncelikle oyunumuzun Oyun Tasarım Dokümanı(GDD) oluşturul
 
 # Sprint 2
 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır.
 
----
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 2.sprint sonuna kadar en az 200 puanlık bölümün tamamlanmasına karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz storylere ve oyun türüne uygun düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. 
+
+Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/YildirimSelahattin/welkinGames/blob/ca178d5fdab2142b8f268ab3ff2214ce11b13eb2/Sprint1Documents/Bootcamp%2363%20Daily%20Scrum.docx)
+
+- **Sprint board update**: Sprint board screenshotı: 
+![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/fc19810bf221edda75e17e2f6c78b3a849189df2/Sprint1Documents/Backlog1.PNG)
+
+
+- **Ürün Durumu**: 
+
+![Ürün Durumu1](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/mutfak.PNG)
+![Ürün Durumu2](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/yatakl%C4%B1oda.PNG)
+![Ürün Durumu3](https://github.com/YildirimSelahattin/welkinGames/blob/4513e2a80daf0d1d59b4a3f08128dbcad2612c89/Sprint1Documents/zeminler.PNG)
+
+- **Sprint Review**: 
+Alınan kararlar: GDD'de yazan oyun projesinin tam anlamıyla gerçekleştirilmesi için daha fazla vakit gerektiğine karar verilmiştir. Bu doğrultuda 3.Sprint boyunca zamanı daha verimli kullanmaya yönelik CC0 hazır asset kullanımı, GDD'deki mekaniklerin basitleştirilmesi gibi B planları değerlendirmeye alınmıştır. 3.Sprint'in sonuna kadar kritik önem taşıyan görevler belirlenmiş, bunlara odaklanılmıştır.
+
+- **Sprint Retrospective:**
+  Alınan Kararlar: 
+  - Takımın Sprint 2'de vakitlerini verimli kullanamadığı; bu sebepten oyunu basitleştirecek bazı düzenlemeler yapılması,
+  - Basitleştirilmiş oyunun tamamlanabilmesi için tekrar görev dağılımı yapılması,
+  - Sprint 2'de herkesin ayrı kodlama yaptığından vakit kaybettiği tespit edilmiş, belirlenen saatlerde birlikte ve yardımlaşarak kodlama yapılması
+  kararları alınmıştır.
 
 # Sprint 3
 
