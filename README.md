@@ -76,8 +76,42 @@ Alınan kararlar: Öncelikle oyunumuzun Oyun Tasarım Dokümanı(GDD) oluşturul
 
 # Sprint 2
 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır.
 
----
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 2.sprint sonuna kadar en az 200 puanlık bölümün tamamlanmasına karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz storylere ve oyun türüne uygun düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. 
+
+Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/Sprint2DailyScrum/Sprint2DailyScrum.docx)
+
+- **Sprint board update**: Sprint board screenshotı: 
+![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/backlog2.PNG)
+
+
+- **Ürün Durumu**: 
+
+![Ürün Durumu1](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/seviye0.PNG)
+![Ürün Durumu2](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/seviye1.PNG)
+![Ürün Durumu3](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/t.png)
+![Ürün Durumu4](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/boss.png)
+![Ürün Durumu5](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/eldealev.png)
+![Ürün Durumu7](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/olenboss.png)
+![Ürün Durumu8](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/Soare_Sorcerer.gif)
+![Ürün Durumu9](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/soare%20warrior.png)
+
+- **Sprint Review**: 
+Alınan kararlar: GDD'de yazan oyun projesinin tam anlamıyla gerçekleştirilmesi için daha fazla vakit gerektiğine karar verilmiştir. Bu doğrultuda 3.Sprint boyunca zamanı daha verimli kullanmaya yönelik CC0 hazır asset kullanımı, GDD'deki mekaniklerin basitleştirilmesi gibi B planları değerlendirmeye alınmıştır. 3.Sprint'in sonuna kadar kritik önem taşıyan görevler belirlenmiş, bunlara odaklanılmıştır.
+
+- **Sprint Retrospective:**
+  Alınan Kararlar: 
+  - Takımın Sprint 2'de vakitlerini verimli kullanamadığı; bu sebepten oyunu basitleştirecek bazı düzenlemeler yapılması,
+  - Basitleştirilmiş oyunun tamamlanabilmesi için tekrar görev dağılımı yapılması,
+  - Sprint 2'de herkesin ayrı kodlama yaptığından vakit kaybettiği tespit edilmiş, belirlenen saatlerde birlikte ve yardımlaşarak kodlama yapılması
+  kararları alınmıştır.
 
 # Sprint 3
 
