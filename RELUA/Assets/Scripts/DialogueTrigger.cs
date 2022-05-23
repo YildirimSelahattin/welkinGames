@@ -9,7 +9,7 @@ public class DialogueTrigger : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Player")
+        if (collision.tag == "player")
         {
             playerDetected = true;
             dialogueScript.ToggleIndicator(playerDetected);
@@ -18,7 +18,7 @@ public class DialogueTrigger : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.tag == "Player")
+        if (collision.tag == "player")
         {
             playerDetected = false;
             dialogueScript.ToggleIndicator(playerDetected);
