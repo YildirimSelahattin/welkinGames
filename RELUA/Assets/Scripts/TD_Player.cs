@@ -21,7 +21,7 @@ public class TD_Player : MonoBehaviour
     private void Update()
     {
         DirectionAttach();
-    }
+    }  
     private void FixedUpdate()
     {
         Movement();
