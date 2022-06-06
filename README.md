@@ -136,7 +136,6 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 ![Ürün Durumu1](https://github.com/YildirimSelahattin/welkinGames/blob/c63a0f7e2dce1488d20537c9bc7cec2f4eed271e/Sprint3/1.png)
 ![Ürün Durumu2](https://github.com/YildirimSelahattin/welkinGames/blob/c63a0f7e2dce1488d20537c9bc7cec2f4eed271e/Sprint3/2.png)
 ![Ürün Durumu3](https://github.com/YildirimSelahattin/welkinGames/blob/c63a0f7e2dce1488d20537c9bc7cec2f4eed271e/Sprint3/3.png)
-![Ürün Durumu4]
 
 
 - **Sprint Review**: 
@@ -147,3 +146,6 @@ Alınan kararlar: Proje mezun olma kriterlerine uygun şekilde tamamlanmıştır
   - Git ve GitHub'ı ilk kez kullandığımız için yaşadığımız aksaklıklara çözüm ararken vakit kaybettik sonraki projelerde bu durum önceden gözetilecek.
   - Sprintleri eşit bölmektense son sprint'e daha az iş yükü bırakılmalıydı. Ekip üyelerinin son sprint'teki yoğunluğunu Scrum Master hesaba katmalıydı.
   - Ekibin ilk projesi olmasına rağmen takım olmayı başarıp bir ürün ortaya koyabilmesi tüm ekip üyelerini memnun etti.
+
+- **Unity Version**
+- 2020.3.30f1 kullanıldı.
