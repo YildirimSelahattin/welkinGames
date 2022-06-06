@@ -5,26 +5,24 @@ using UnityEngine;
 public class Boss : MonoBehaviour
 {
     public Animator animator;
-    public int bossHealth;
-    public int maxHealth = 1000;
+    public static float bossHealth = 1000;
     public GameObject Fireball;
     void Start()
     {
-        bossHealth = maxHealth;
         InvokeRepeating("Send", 1f, 5f);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        Die();
     }
 
     void Die()
     {
         if(bossHealth <= 0)
         {
-            animator.SetTrigger("Death");
+            Destroy(gameObject);
         }
     }
     void Send()

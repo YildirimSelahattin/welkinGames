@@ -16,6 +16,7 @@ TagManager:
   - FireExit
   - spikeBall
   - curat
+  - Boss
   layers:
   - Default
   - TransparentFX

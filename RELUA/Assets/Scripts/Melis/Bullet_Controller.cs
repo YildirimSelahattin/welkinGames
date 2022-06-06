@@ -38,5 +38,9 @@ public class Bullet_Controller : MonoBehaviour
         {
             Curat_Sorcerer.curratHealth = Curat_Sorcerer.curratHealth - 10;
         }
+        if (other.tag == "Boss")
+        {
+            Boss.bossHealth = Boss.bossHealth - 50;
+        }
     }
 }

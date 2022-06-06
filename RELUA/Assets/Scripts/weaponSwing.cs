@@ -1,16 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class weaponSwing : MonoBehaviour
 {
-
     private Animator anim;
     public Transform player;
     private Transform target;
     public SpriteRenderer sr;
-
-
 
     void Start()
     {
@@ -44,7 +42,19 @@ public class weaponSwing : MonoBehaviour
             }
             else anim.SetBool("target_in_range", false);
         }
+    }
 
+    public void OnTriggerEnter2D(Collider2D collider2D)
+    {
+        if (collider2D.gameObject.CompareTag("player"))
+        {
+            LivesController.health = LivesController.health - 20;
 
+            if (LivesController.health <= 0)
+            {
+                SceneManager.LoadScene("Start");
+                LivesController.health = 100;
+            }
+        }
     }
 }

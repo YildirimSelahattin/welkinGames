@@ -54,7 +54,7 @@ public class ShopManagerScript : MonoBehaviour
 
         if (shopItems[3,1] == 1)
         {
-            playerScript.SpeedUp(150);
+            Score.moveSpeed=6f;
             shopItems[3, 1] = 0;
         }
         if (shopItems[3, 2] == 1)
@@ -64,7 +64,7 @@ public class ShopManagerScript : MonoBehaviour
         }
         if (shopItems[3, 3] == 1)
         {
-            playerScript.HealthUp();
+            LivesController.health=100;
             shopItems[3, 3] = 0;
         }
         if (shopItems[3, 4] == 1)

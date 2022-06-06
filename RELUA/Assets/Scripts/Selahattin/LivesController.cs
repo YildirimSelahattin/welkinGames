@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 public class LivesController : MonoBehaviour
 {
     [SerializeField] public static float health;
-    public float maxHealth = 100;
+    public static float maxHealth = 100;
 
     public Slider healthSlider;
 

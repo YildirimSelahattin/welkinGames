@@ -7,7 +7,7 @@ public class PlayerPoints : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI _tmpro;
 
-    private void Awake()
+    private void Update()
     {
         _tmpro.text = Score.totalScore.ToString();
     }

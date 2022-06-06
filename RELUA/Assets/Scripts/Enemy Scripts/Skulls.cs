@@ -35,6 +35,7 @@ public class Skulls : MonoBehaviour
         {
             DestroyObject();
         }
+        Destroy(gameObject, 10);
         
     }
 

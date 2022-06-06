@@ -71,11 +71,11 @@ public class PlayerMovements : MonoBehaviour
         rb.MovePosition(rb.position + movement * Score.moveSpeed * Time.fixedDeltaTime);
     }
     //alttaki kod: dusmanin tag'ini enemy yapiyorsun ona saldirinca yok oluyor
-      private void OnTriggerEnter2D(Collider2D other){
-        if(other.tag == "Enemy"){
-            Destroy(other.gameObject);
-        }
-    }
+    //  private void OnTriggerEnter2D(Collider2D other){
+    //    if(other.tag == "Enemy"){
+    //        Destroy(other.gameObject);
+    //    }
+    //}
 
     public void SpeedUp(int a)
     {
