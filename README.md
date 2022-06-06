@@ -115,4 +115,35 @@ Alınan kararlar: GDD'de yazan oyun projesinin tam anlamıyla gerçekleştirilme
 
 # Sprint 3
 
----
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3.Sprint son Sprint olduğu için planlanan tüm tasklerin bitirilmesi gerekmektedir.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz storylere ve oyun türüne uygun düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. 
+
+Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/YildirimSelahattin/welkinGames/blob/f6dd3bac08683754a2c5e01a737259185e699755/Sprint3/DailyScrum/DailyScrum3.docx)
+
+- **Sprint board update**: Sprint board screenshotı: 
+![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/f6dd3bac08683754a2c5e01a737259185e699755/Sprint3/backlog3.PNG)
+
+
+- **Ürün Durumu**: 
+
+![Ürün Durumu1]
+![Ürün Durumu2]
+![Ürün Durumu3]
+![Ürün Durumu4]
+
+
+- **Sprint Review**: 
+Alınan kararlar: Proje mezun olma kriterlerine uygun şekilde tamamlanmıştır. Elbette, eksik kalan kısımları olabildiğince telafi edilmeye çalışılmıştır. 
+
+- **Sprint Retrospective:**
+  Alınan Kararlar: 
+  - Git ve GitHub'ı ilk kez kullandığımız için yaşadığımız aksaklıklara çözüm ararken vakit kaybettik sonraki projelerde bu durum önceden gözetilecek.
+  - Sprintleri eşit bölmektense son sprint'e daha az iş yükü bırakılmalıydı. Ekip üyelerinin son sprint'teki yoğunluğunu Scrum Master hesaba katmalıydı.
+  - Ekibin ilk projesi olmasına rağmen takım olmayı başarıp bir ürün ortaya koyabilmesi tüm ekip üyelerini memnun etti.
