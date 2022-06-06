@@ -125,10 +125,10 @@ Alınan kararlar: GDD'de yazan oyun projesinin tam anlamıyla gerçekleştirilme
 
 Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/YildirimSelahattin/welkinGames/blob/4c57a5187efb55ee0f44d22c8373e3779f6590a3/Sprint2Documents/Sprint2DailyScrum/Sprint2DailyScrum.docx)
+- **Daily Scrum**: Daily Scrum toplantılarını Sesli sohbet ile Slack üzerinden ya da WhatsApp üzerinden yürüttük. Daily Scrum toplantısı word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/YildirimSelahattin/welkinGames/blob/f6dd3bac08683754a2c5e01a737259185e699755/Sprint3/DailyScrum/DailyScrum3.docx)
 
 - **Sprint board update**: Sprint board screenshotı: 
-![Backlog1]
+![Backlog1](https://github.com/YildirimSelahattin/welkinGames/blob/f6dd3bac08683754a2c5e01a737259185e699755/Sprint3/backlog3.PNG)
 
 
 - **Ürün Durumu**: 
@@ -137,10 +137,7 @@ Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirk
 ![Ürün Durumu2]
 ![Ürün Durumu3]
 ![Ürün Durumu4]
-![Ürün Durumu5]
-![Ürün Durumu7]
-![Ürün Durumu8]
-![Ürün Durumu9]
+
 
 - **Sprint Review**: 
 Alınan kararlar: Proje mezun olma kriterlerine uygun şekilde tamamlanmıştır. Elbette, eksik kalan kısımları olabildiğince telafi edilmeye çalışılmıştır. 
